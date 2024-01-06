@@ -1,0 +1,13 @@
+.text-title{
+  font-size: 80px;
+  color: aqua;
+}
+.text-paragraph{
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  width: 80%;
+}
+.box{
+  background-color: antiquewhite;
+}
+

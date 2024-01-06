@@ -1,0 +1,24 @@
+.card{
+  position: relative;
+}
+.card-text{
+  position: absolute;
+  top: 85%;
+  right: 20%;
+  font-size: xxx-large;
+  color: aliceblue;
+}
+.card-text1{
+  position: absolute;
+  top: 85%;
+  right: 40%;
+  font-size: xxx-large;
+  color: aliceblue;
+}
+.btn-card{
+  width: 400px;
+  height: 50px;
+  background-color: yellowgreen;
+  border: none;
+  font-size: large;
+}
